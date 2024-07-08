@@ -1,0 +1,1 @@
+# porownanie-ocr
