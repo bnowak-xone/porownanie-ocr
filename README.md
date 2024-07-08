@@ -7,9 +7,9 @@ Rozwiązanie posiada następujące zalety:
 ```
 pip install azure-ai-documentintelligence==1.0.0b2
 ```
-- free tier 500 stron/miesiąc (wymagane jest konto Azure z podpiętą kartą) - jest to na tyle dużo, że dla odpowiednio małych projektów, może się okazać wystarczająco; pózniej 1,5$/1000 dokumentów
+- free tier 500 stron/miesiąc, maksymalnie 2 strony/dokument (wymagane jest konto Azure z podpiętą kartą) - jest to na tyle dużo, że dla odpowiednio małych projektów, może się okazać wystarczająco; pózniej 1,5$/1000 dokumentów
 
-Dzięki dostępności free tier byłem wstanie przetestować rozwiązanie na przykładowym pliku: corello.pdf, wynik można zobaczyć w Corello_azure.md
+Dzięki dostępności free tier byłem wstanie przetestować rozwiązanie na pierwszych 2 stronach przykładowego pliku: corello.pdf, wynik można zobaczyć w Corello_azure.md
 
 Ciekawym przykładem jest fragment pdf, w którym przy pomocy 2 tabel opisywane są dawki: 
 ![dawka pdf](dawka_pdf.png)
